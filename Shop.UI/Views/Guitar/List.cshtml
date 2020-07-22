@@ -1,0 +1,9 @@
+﻿@model GuitarsListViewModel
+
+
+<h1>@Model.CurrentCategory</h1>
+
+@foreach (var guitar in Model.Guitars)
+{
+    <partial name="_GuitarCard" model="guitar" />
+}
