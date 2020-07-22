@@ -7,3 +7,6 @@ E:\MyGitProject\Guitar Shop\Guitar-Shop\Business layer\obj\Debug\netcoreapp3.1\B
 E:\MyGitProject\Guitar Shop\Guitar-Shop\Business layer\obj\Debug\netcoreapp3.1\Business Layer.dll
 E:\MyGitProject\Guitar Shop\Guitar-Shop\Business layer\obj\Debug\netcoreapp3.1\Business Layer.pdb
 E:\MyGitProject\Guitar Shop\Guitar-Shop\Business layer\obj\Debug\netcoreapp3.1\Business Layer.csprojAssemblyReference.cache
+E:\MyGitProject\Guitar Shop\Guitar-Shop\Business layer\bin\Debug\netcoreapp3.1\Data Access Layer.dll
+E:\MyGitProject\Guitar Shop\Guitar-Shop\Business layer\bin\Debug\netcoreapp3.1\Data Access Layer.pdb
+E:\MyGitProject\Guitar Shop\Guitar-Shop\Business layer\obj\Debug\netcoreapp3.1\Business Layer.csproj.CopyComplete

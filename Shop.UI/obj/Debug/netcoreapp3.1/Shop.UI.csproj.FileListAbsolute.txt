@@ -12,20 +12,11 @@ E:\MyGitProject\Guitar Shop\Guitar-Shop\Shop.UI\bin\Debug\netcoreapp3.1\Shop.UI.
 E:\MyGitProject\Guitar Shop\Guitar-Shop\Shop.UI\obj\Debug\netcoreapp3.1\Shop.UI.csprojAssemblyReference.cache
 E:\MyGitProject\Guitar Shop\Guitar-Shop\Shop.UI\obj\Debug\netcoreapp3.1\Shop.UI.AssemblyInfoInputs.cache
 E:\MyGitProject\Guitar Shop\Guitar-Shop\Shop.UI\obj\Debug\netcoreapp3.1\Shop.UI.AssemblyInfo.cs
-E:\MyGitProject\Guitar Shop\Guitar-Shop\Shop.UI\obj\Debug\netcoreapp3.1\Shop.UI.csproj.CoreCompileInputs.cache
-E:\MyGitProject\Guitar Shop\Guitar-Shop\Shop.UI\obj\Debug\netcoreapp3.1\Shop.UI.MvcApplicationPartsAssemblyInfo.cache
 E:\MyGitProject\Guitar Shop\Guitar-Shop\Shop.UI\obj\Debug\netcoreapp3.1\Shop.UI.RazorAssemblyInfo.cache
 E:\MyGitProject\Guitar Shop\Guitar-Shop\Shop.UI\obj\Debug\netcoreapp3.1\Shop.UI.RazorAssemblyInfo.cs
 E:\MyGitProject\Guitar Shop\Guitar-Shop\Shop.UI\obj\Debug\netcoreapp3.1\Shop.UI.TagHelpers.input.cache
 E:\MyGitProject\Guitar Shop\Guitar-Shop\Shop.UI\obj\Debug\netcoreapp3.1\Shop.UI.TagHelpers.output.cache
 E:\MyGitProject\Guitar Shop\Guitar-Shop\Shop.UI\obj\Debug\netcoreapp3.1\Shop.UI.RazorCoreGenerate.cache
-E:\MyGitProject\Guitar Shop\Guitar-Shop\Shop.UI\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
-E:\MyGitProject\Guitar Shop\Guitar-Shop\Shop.UI\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
-E:\MyGitProject\Guitar Shop\Guitar-Shop\Shop.UI\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
-E:\MyGitProject\Guitar Shop\Guitar-Shop\Shop.UI\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
-E:\MyGitProject\Guitar Shop\Guitar-Shop\Shop.UI\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
-E:\MyGitProject\Guitar Shop\Guitar-Shop\Shop.UI\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
-E:\MyGitProject\Guitar Shop\Guitar-Shop\Shop.UI\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
 E:\MyGitProject\Guitar Shop\Guitar-Shop\Shop.UI\obj\Debug\netcoreapp3.1\Shop.UI.RazorTargetAssemblyInfo.cache
 E:\MyGitProject\Guitar Shop\Guitar-Shop\Shop.UI\obj\Debug\netcoreapp3.1\Shop.UI.RazorTargetAssemblyInfo.cs
 E:\MyGitProject\Guitar Shop\Guitar-Shop\Shop.UI\obj\Debug\netcoreapp3.1\Shop.UI.Views.pdb
@@ -37,3 +28,35 @@ E:\MyGitProject\Guitar Shop\Guitar-Shop\Shop.UI\obj\Debug\netcoreapp3.1\Shop.UI.
 E:\MyGitProject\Guitar Shop\Guitar-Shop\Shop.UI\obj\Debug\netcoreapp3.1\Shop.UI.csproj.CopyComplete
 E:\MyGitProject\Guitar Shop\Guitar-Shop\Shop.UI\bin\Debug\netcoreapp3.1\Data Access Layer.dll
 E:\MyGitProject\Guitar Shop\Guitar-Shop\Shop.UI\bin\Debug\netcoreapp3.1\Data Access Layer.pdb
+E:\MyGitProject\Guitar Shop\Guitar-Shop\Shop.UI\obj\Debug\netcoreapp3.1\Razor\Views\Guitar\List.cshtml.g.cs
+E:\MyGitProject\Guitar Shop\Guitar-Shop\Shop.UI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\MyGitProject\Guitar Shop\Guitar-Shop\Shop.UI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\MyGitProject\Guitar Shop\Guitar-Shop\Shop.UI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\MyGitProject\Guitar Shop\Guitar-Shop\Shop.UI\bin\Debug\netcoreapp3.1\libman.json
+E:\MyGitProject\Guitar Shop\Guitar-Shop\Shop.UI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\MyGitProject\Guitar Shop\Guitar-Shop\Shop.UI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\MyGitProject\Guitar Shop\Guitar-Shop\Shop.UI\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\MyGitProject\Guitar Shop\Guitar-Shop\Shop.UI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\MyGitProject\Guitar Shop\Guitar-Shop\Shop.UI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\MyGitProject\Guitar Shop\Guitar-Shop\Shop.UI\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\MyGitProject\Guitar Shop\Guitar-Shop\Shop.UI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\MyGitProject\Guitar Shop\Guitar-Shop\Shop.UI\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\MyGitProject\Guitar Shop\Guitar-Shop\Shop.UI\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\MyGitProject\Guitar Shop\Guitar-Shop\Shop.UI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\MyGitProject\Guitar Shop\Guitar-Shop\Shop.UI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\MyGitProject\Guitar Shop\Guitar-Shop\Shop.UI\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\MyGitProject\Guitar Shop\Guitar-Shop\Shop.UI\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\MyGitProject\Guitar Shop\Guitar-Shop\Shop.UI\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\MyGitProject\Guitar Shop\Guitar-Shop\Shop.UI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\MyGitProject\Guitar Shop\Guitar-Shop\Shop.UI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\MyGitProject\Guitar Shop\Guitar-Shop\Shop.UI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\MyGitProject\Guitar Shop\Guitar-Shop\Shop.UI\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\MyGitProject\Guitar Shop\Guitar-Shop\Shop.UI\obj\Debug\netcoreapp3.1\Shop.UI.csproj.CoreCompileInputs.cache
+E:\MyGitProject\Guitar Shop\Guitar-Shop\Shop.UI\obj\Debug\netcoreapp3.1\Shop.UI.MvcApplicationPartsAssemblyInfo.cache
+E:\MyGitProject\Guitar Shop\Guitar-Shop\Shop.UI\bin\Debug\netcoreapp3.1\Business Layer.dll
+E:\MyGitProject\Guitar Shop\Guitar-Shop\Shop.UI\bin\Debug\netcoreapp3.1\Business Layer.pdb
+E:\MyGitProject\Guitar Shop\Guitar-Shop\Shop.UI\obj\Debug\netcoreapp3.1\Razor\Views\Guitar\Details.cshtml.g.cs
+E:\MyGitProject\Guitar Shop\Guitar-Shop\Shop.UI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_GuitarCard.cshtml.g.cs
+E:\MyGitProject\Guitar Shop\Guitar-Shop\Shop.UI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\CategoryMenu\Default.cshtml.g.cs
+E:\MyGitProject\Guitar Shop\Guitar-Shop\Shop.UI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\MyGitProject\Guitar Shop\Guitar-Shop\Shop.UI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Carousel.cshtml.g.cs

@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Services\" />
+    <ProjectReference Include="..\Data Access Layer\Data Access Layer.csproj" />
   </ItemGroup>
 
 </Project>

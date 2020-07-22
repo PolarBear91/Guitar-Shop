@@ -1,6 +1,6 @@
 ﻿using Microsoft.Extensions.DependencyInjection;
 using Data_Access_Layer.Interfaces;
-using Data_Access_Layer.MockRepository;
+using Business_layer.Services;
 
 namespace Shop.UI
 {
@@ -8,8 +8,8 @@ namespace Shop.UI
     {
         public static void AddApplicationServises(this IServiceCollection services)
         {
-            services.AddTransient<ICategoryRepository, MockCategoryRepository>();
-            services.AddTransient<IGuitarRepository, MockGuitarRepository>();
+            services.AddTransient<ICategoryRepository, CategoryRepository>();
+            services.AddTransient<IGuitarRepository, GuitarRepository>();
         }
     }
 }

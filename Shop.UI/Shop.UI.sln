@@ -5,9 +5,9 @@ VisualStudioVersion = 16.0.30225.117
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shop.UI", "Shop.UI.csproj", "{CC50421E-5AB6-4C8E-9B00-B741B4A765D7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data Access Layer", "..\Data Access Layer\Data Access Layer.csproj", "{1631A6D5-D933-4397-994C-ADCE29975EAC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Data Access Layer", "..\Data Access Layer\Data Access Layer.csproj", "{1631A6D5-D933-4397-994C-ADCE29975EAC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business Layer", "..\Business layer\Business Layer.csproj", "{7180DB0A-D695-4681-9734-884D8EB114B0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Business Layer", "..\Business layer\Business Layer.csproj", "{7180DB0A-D695-4681-9734-884D8EB114B0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

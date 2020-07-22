@@ -1,0 +1,21 @@
+﻿@model Guitar
+
+<h2>@Model.Brand</h2>
+
+<div class="thumbnail">
+    <img alt="@Model.Brand" src="@Model.ImageUrl">
+    <div class="caption-full">
+        <h3 class="pull-right">@Model.Price</h3>
+        <h3>
+            <a href="#">@Model.Brand</a>
+        </h3>
+        <h4>@Model.DescriptionOfGuitar</h4>
+        <p>@Model.DescriptionOfGuitar</p>
+        <div class="addToCart">
+            <p class="button">
+                <a class="btn btn-primary" asp-controller="ShoppingCart" asp-action="AddToShoppingCart"
+                   asp-route-pieId="@Model.GuitarId">Add to cart</a>
+            </p>
+        </div>
+    </div>
+</div>
