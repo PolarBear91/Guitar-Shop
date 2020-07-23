@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 
 
-namespace Data_Access_Layer.Interfaces  //Done
+namespace Data_Access_Layer.Interfaces
 {
     public interface ICategoryRepository
     {

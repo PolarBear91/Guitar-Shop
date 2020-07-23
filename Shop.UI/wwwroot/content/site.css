@@ -14,9 +14,14 @@ body {
     font-family: 'Source Sans Pro', sans-serif;
 }
 
+.smoke {
+    background-color: #d9edf7a8;
+}
+
 
 .slide-image {
     width: 100%;
+
 }
 
 .carousel-holder {
@@ -80,14 +85,14 @@ footer {
 }
 
 .carousel .item {
-    height: 400px;
+    height: 250px;
 }
 
 .item img {
     position: absolute;
     top: 0;
     left: 0;
-    min-height: 400px;
+    min-height: 200px;
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open .dropdown-toggle.btn-primary {

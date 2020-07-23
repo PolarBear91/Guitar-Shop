@@ -1,5 +1,5 @@
 ﻿
-namespace Data_Access_Layer.Models //Done.
+namespace Data_Access_Layer.Models
 {
     public class Guitar
     {
@@ -13,6 +13,6 @@ namespace Data_Access_Layer.Models //Done.
         public bool IsGuitarOfTheWeek { get; set; }
         public bool InStock { get; set; }
         public int CategoryId { get; set; }
-        public virtual Category Category { get; set; }
+        public Category Category { get; set; }
     }
 }

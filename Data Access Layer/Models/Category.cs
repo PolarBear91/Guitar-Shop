@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace Data_Access_Layer.Models   //Done
+namespace Data_Access_Layer.Models
 {
     public class Category
     {
