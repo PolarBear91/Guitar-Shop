@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "2HyeYxRLn8Cok95Kj6RBOthQVq5izwvaJNTIkp7ls8zR1WBqUm2T22DFcd0xxKJN7SzVMSlOheIO5UBNQwbPng==",
+  "dgSpecHash": "+lPKoKCgVwCHPfhKqQWXPOH+yqJFAbRhgnCMlQ7ZYDNdVwL2gm5A3BYSIt/Zs+gvnQcOmozbrcNtnI8jPnxEYA==",
   "success": true,
   "projectFilePath": "E:\\MyGitProject\\Guitar Shop\\Guitar-Shop\\Shop.UI\\Shop.UI.csproj",
   "expectedPackageFiles": [
@@ -22,7 +22,7 @@
     "C:\\Users\\Mishka\\.nuget\\packages\\microsoft.aspnetcore.http.features\\3.1.6\\microsoft.aspnetcore.http.features.3.1.6.nupkg.sha512",
     "C:\\Users\\Mishka\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\2.2.0\\microsoft.aspnetcore.jsonpatch.2.2.0.nupkg.sha512",
     "C:\\Users\\Mishka\\.nuget\\packages\\microsoft.aspnetcore.mvc.abstractions\\2.2.0\\microsoft.aspnetcore.mvc.abstractions.2.2.0.nupkg.sha512",
-    "C:\\Users\\Mishka\\.nuget\\packages\\microsoft.aspnetcore.mvc.core\\2.2.0\\microsoft.aspnetcore.mvc.core.2.2.0.nupkg.sha512",
+    "C:\\Users\\Mishka\\.nuget\\packages\\microsoft.aspnetcore.mvc.core\\2.2.5\\microsoft.aspnetcore.mvc.core.2.2.5.nupkg.sha512",
     "C:\\Users\\Mishka\\.nuget\\packages\\microsoft.aspnetcore.mvc.dataannotations\\2.2.0\\microsoft.aspnetcore.mvc.dataannotations.2.2.0.nupkg.sha512",
     "C:\\Users\\Mishka\\.nuget\\packages\\microsoft.aspnetcore.mvc.formatters.json\\2.2.0\\microsoft.aspnetcore.mvc.formatters.json.2.2.0.nupkg.sha512",
     "C:\\Users\\Mishka\\.nuget\\packages\\microsoft.aspnetcore.mvc.viewfeatures\\2.2.0\\microsoft.aspnetcore.mvc.viewfeatures.2.2.0.nupkg.sha512",

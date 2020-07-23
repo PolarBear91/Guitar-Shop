@@ -2,7 +2,7 @@
 
 namespace Data_Access_Layer.Migrations
 {
-    public partial class init23 : Migration
+    public partial class AddedRepository : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {

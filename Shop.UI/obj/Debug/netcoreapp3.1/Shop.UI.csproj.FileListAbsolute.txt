@@ -70,3 +70,7 @@ E:\MyGitProject\Guitar Shop\Guitar-Shop\Shop.UI\bin\Debug\netcoreapp3.1\Newtonso
 E:\MyGitProject\Guitar Shop\Guitar-Shop\Shop.UI\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
 E:\MyGitProject\Guitar Shop\Guitar-Shop\Shop.UI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\ShoppingCartSummary\Default.cshtml.g.cs
 E:\MyGitProject\Guitar Shop\Guitar-Shop\Shop.UI\obj\Debug\netcoreapp3.1\Razor\Views\ShoppingCart\Index.cshtml.g.cs
+E:\MyGitProject\Guitar Shop\Guitar-Shop\Shop.UI\obj\Debug\netcoreapp3.1\Shop.UI.MvcApplicationPartsAssemblyInfo.cs
+E:\MyGitProject\Guitar Shop\Guitar-Shop\Shop.UI\obj\Debug\netcoreapp3.1\Razor\Views\Contact\Index.cshtml.g.cs
+E:\MyGitProject\Guitar Shop\Guitar-Shop\Shop.UI\obj\Debug\netcoreapp3.1\Razor\Views\Order\Checkout.cshtml.g.cs
+E:\MyGitProject\Guitar Shop\Guitar-Shop\Shop.UI\obj\Debug\netcoreapp3.1\Razor\Views\Order\CheckoutComplete.cshtml.g.cs
