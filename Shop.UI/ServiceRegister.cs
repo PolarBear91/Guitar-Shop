@@ -12,6 +12,7 @@ namespace Shop.UI
         {
             services.AddScoped<ICategoryRepository, CategoryRepository>();
             services.AddScoped<IGuitarRepository, GuitarRepository>();
+            services.AddScoped<IOrderRepository, OrderRepository>();
             services.AddScoped<ShoppingCart>(sp => ShoppingCart.GetCart(sp));
         }
     }
