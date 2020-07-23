@@ -5,7 +5,6 @@ E:\MyGitProject\Guitar Shop\Guitar-Shop\Data Access Layer\obj\Debug\netcoreapp3.
 E:\MyGitProject\Guitar Shop\Guitar-Shop\Data Access Layer\obj\Debug\netcoreapp3.1\Data Access Layer.AssemblyInfo.cs
 E:\MyGitProject\Guitar Shop\Guitar-Shop\Data Access Layer\obj\Debug\netcoreapp3.1\Data Access Layer.dll
 E:\MyGitProject\Guitar Shop\Guitar-Shop\Data Access Layer\obj\Debug\netcoreapp3.1\Data Access Layer.pdb
-E:\MyGitProject\Guitar Shop\Guitar-Shop\Data Access Layer\obj\Debug\netcoreapp3.1\Data Access Layer.csprojAssemblyReference.cache
 E:\MyGitProject\Guitar Shop\Guitar-Shop\Data Access Layer\bin\Debug\netcoreapp3.1\Data Access Layer.runtimeconfig.json
 E:\MyGitProject\Guitar Shop\Guitar-Shop\Data Access Layer\bin\Debug\netcoreapp3.1\Data Access Layer.runtimeconfig.dev.json
 E:\MyGitProject\Guitar Shop\Guitar-Shop\Data Access Layer\obj\Debug\netcoreapp3.1\Data Access Layer.genruntimeconfig.cache

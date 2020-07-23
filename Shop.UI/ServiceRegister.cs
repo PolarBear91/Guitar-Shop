@@ -1,6 +1,7 @@
 ﻿using Microsoft.Extensions.DependencyInjection;
 using Data_Access_Layer.Interfaces;
 using Business_layer.Services;
+using Data_Access_Layer.Models;
 
 namespace Shop.UI
 {
@@ -8,8 +9,9 @@ namespace Shop.UI
     {
         public static void AddApplicationServises(this IServiceCollection services)
         {
-            services.AddTransient<ICategoryRepository, CategoryRepository>();
-            services.AddTransient<IGuitarRepository, GuitarRepository>();
+            services.AddScoped<ICategoryRepository, CategoryRepository>();
+            services.AddScoped<IGuitarRepository, GuitarRepository>();
+            services.AddScoped<ShoppingCart>(sp => ShoppingCart.GetCart(sp));
         }
     }
 }

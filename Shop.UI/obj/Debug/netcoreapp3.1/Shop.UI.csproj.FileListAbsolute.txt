@@ -60,3 +60,13 @@ E:\MyGitProject\Guitar Shop\Guitar-Shop\Shop.UI\obj\Debug\netcoreapp3.1\Razor\Vi
 E:\MyGitProject\Guitar Shop\Guitar-Shop\Shop.UI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\CategoryMenu\Default.cshtml.g.cs
 E:\MyGitProject\Guitar Shop\Guitar-Shop\Shop.UI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
 E:\MyGitProject\Guitar Shop\Guitar-Shop\Shop.UI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Carousel.cshtml.g.cs
+E:\MyGitProject\Guitar Shop\Guitar-Shop\Shop.UI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Http.Features.dll
+E:\MyGitProject\Guitar Shop\Guitar-Shop\Shop.UI\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+E:\MyGitProject\Guitar Shop\Guitar-Shop\Shop.UI\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+E:\MyGitProject\Guitar Shop\Guitar-Shop\Shop.UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+E:\MyGitProject\Guitar Shop\Guitar-Shop\Shop.UI\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\MyGitProject\Guitar Shop\Guitar-Shop\Shop.UI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\MyGitProject\Guitar Shop\Guitar-Shop\Shop.UI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+E:\MyGitProject\Guitar Shop\Guitar-Shop\Shop.UI\bin\Debug\netcoreapp3.1\System.IO.Pipelines.dll
+E:\MyGitProject\Guitar Shop\Guitar-Shop\Shop.UI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\ShoppingCartSummary\Default.cshtml.g.cs
+E:\MyGitProject\Guitar Shop\Guitar-Shop\Shop.UI\obj\Debug\netcoreapp3.1\Razor\Views\ShoppingCart\Index.cshtml.g.cs

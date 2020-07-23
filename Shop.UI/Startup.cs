@@ -24,6 +24,8 @@ namespace Shop.UI
 
             services.AddMvc();          
             services.AddRazorPages();
+            services.AddHttpContextAccessor();
+            services.AddSession();
             services.AddApplicationServises();
 
         }
@@ -36,11 +38,10 @@ namespace Shop.UI
             }
 
             app.UseHttpsRedirection();
-            app.UseStaticFiles();  
+            app.UseStaticFiles();
+            app.UseSession();
 
             app.UseRouting();
-            //app.UseAuthentication();
-            //app.UseAuthorization();
 
             app.UseEndpoints(endpoints =>
             {
