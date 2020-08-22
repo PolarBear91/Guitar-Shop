@@ -32,14 +32,14 @@ namespace Data_Access_Layer
             {
                 GuitarId = 1,
                 Brand = "Ibanez",
-                Price = 12.95M,
+                Price = 140.95M,
                 DescriptionOfGuitar = "Good model for start",
                 CategoryId = 1,
-                ImageUrl = "https://gillcleerenpluralsight.blob.core.windows.net/files/applepie.jpg",
+                ImageUrl = "Images/Guitars/ibanez 121.JPG",
                 InStock = true,
                 IsGuitarOfTheWeek = true,
-                ImageThumbnailUrl = "https://gillcleerenpluralsight.blob.core.windows.net/files/applepiesmall.jpg"
-            }) ;
+                ImageThumbnailUrl = "Images/Guitars/ibanez 121.JPG"
+            });
         }
     }
 }

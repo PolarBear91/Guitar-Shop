@@ -2,7 +2,6 @@
 using Data_Access_Layer.Interfaces;
 using Business_layer.Services;
 using Data_Access_Layer.Models;
-using Data_Access_Layer.MockRepository;
 
 namespace Shop.UI
 {

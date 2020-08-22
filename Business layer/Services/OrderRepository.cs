@@ -25,7 +25,6 @@ namespace Business_layer.Services
             order.OrderTotal = _shoppingCart.GetShoppingCartTotal();
 
             order.OrderDetails = new List<OrderDetail>();
-            //adding the order with its details
 
             foreach (var shoppingCartItem in shoppingCartItems)
             {

@@ -25,11 +25,12 @@ namespace Shop.UI
 
             services.AddDefaultIdentity<IdentityUser>().AddEntityFrameworkStores<AppDbContext>();
 
-            services.AddMvc();          
+            services.AddMvc();
             services.AddRazorPages();
             services.AddHttpContextAccessor();
             services.AddSession();
-            services.AddApplicationServises();
+
+            services.AddApplicationServises();   //Custom services this app
         }
 
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
@@ -47,7 +48,6 @@ namespace Shop.UI
 
             app.UseAuthentication();
             app.UseAuthorization();
-
 
             app.UseEndpoints(endpoints =>
             {

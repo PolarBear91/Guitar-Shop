@@ -4,14 +4,16 @@ using Data_Access_Layer;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 namespace Data_Access_Layer.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    partial class AppDbContextModelSnapshot : ModelSnapshot
+    [Migration("20200822205808_AddedNewProductVer4")]
+    partial class AddedNewProductVer4
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -101,11 +103,47 @@ namespace Data_Access_Layer.Migrations
                             Brand = "Ibanez",
                             CategoryId = 1,
                             DescriptionOfGuitar = "Good model for start",
-                            ImageThumbnailUrl = "Images/Guitars/ibanez 121.JPG",
-                            ImageUrl = "Images/Guitars/ibanez 121.JPG",
+                            ImageThumbnailUrl = "~/Images/Guitars/Ibanez bass.JPG",
+                            ImageUrl = "~/Images/Guitars/Ibanez bass.JPG",
                             InStock = true,
                             IsGuitarOfTheWeek = true,
-                            Price = 140.95m
+                            Price = 12.95m
+                        },
+                        new
+                        {
+                            GuitarId = 2,
+                            Brand = "Gibson",
+                            CategoryId = 1,
+                            DescriptionOfGuitar = "Les Paul classic",
+                            ImageThumbnailUrl = "Images/Guitars/Ibanez bass.JPG",
+                            ImageUrl = "Images/Guitars/Ibanez bass.JPG",
+                            InStock = true,
+                            IsGuitarOfTheWeek = true,
+                            Price = 25.95m
+                        },
+                        new
+                        {
+                            GuitarId = 56,
+                            Brand = "Gibson",
+                            CategoryId = 1,
+                            DescriptionOfGuitar = "Les Paul classic",
+                            ImageThumbnailUrl = "Images/Guitars/Ibanez bass.JPG",
+                            ImageUrl = "Images/Guitars/Ibanez bass.JPG",
+                            InStock = true,
+                            IsGuitarOfTheWeek = true,
+                            Price = 25.95m
+                        },
+                        new
+                        {
+                            GuitarId = 57,
+                            Brand = "Gibson sdfds",
+                            CategoryId = 1,
+                            DescriptionOfGuitar = "Les Paul classic",
+                            ImageThumbnailUrl = "~/Images/Guitars/Ibanez bass.JPG",
+                            ImageUrl = "~/Images/Guitars/Ibanez bass.JPG",
+                            InStock = true,
+                            IsGuitarOfTheWeek = true,
+                            Price = 25.95m
                         });
                 });
 

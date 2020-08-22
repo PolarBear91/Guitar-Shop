@@ -15,7 +15,6 @@ namespace Business_layer.Services
         }
 
         public IEnumerable<Category> AllCategories => _appDbContext.Categories;
-
     }
 }
 

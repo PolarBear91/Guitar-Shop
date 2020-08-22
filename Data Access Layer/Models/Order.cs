@@ -27,9 +27,6 @@ namespace Data_Access_Layer.Models
         [Display(Name = "Address Line")]
         public string AddressLine { get; set; }
 
-        //[Display(Name = "Address Line 2")]
-        //public string AddressLine2 { get; set; }
-
         [Required(ErrorMessage = "Please enter your zip code")]
         [Display(Name = "Zip code")]
         [StringLength(10, MinimumLength = 4)]

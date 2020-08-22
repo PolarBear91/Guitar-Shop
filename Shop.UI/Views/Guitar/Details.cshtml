@@ -3,7 +3,7 @@
 <h2>@Model.Brand</h2>
 
 <div class="thumbnail">
-    <img alt="@Model.Brand" src="@Model.ImageUrl">
+    <img alt="@Model.Brand" src="~/../../@Model.ImageUrl">
     <div class="caption-full">
         <h3 class="pull-right">@Model.Price</h3>
         <h3>
@@ -14,7 +14,7 @@
         <div class="addToCart">
             <p class="button">
                 <a class="btn btn-primary" asp-controller="ShoppingCart" asp-action="AddToShoppingCart"
-                   asp-route-pieId="@Model.GuitarId">Add to cart</a>
+                   asp-route-guitarId="@Model.GuitarId">Add to cart</a>
             </p>
         </div>
     </div>

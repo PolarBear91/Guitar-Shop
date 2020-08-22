@@ -1,10 +1,6 @@
 ﻿using Data_Access_Layer.Models;
 using Microsoft.AspNetCore.Mvc;
 using Shop.UI.ViewModels;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 
 namespace Shop.UI.Components
 {
