@@ -1,5 +1,5 @@
 ﻿@model Guitar
-    <div class="col-sm-4 col-lg-4 col-md-4">
+    <div class="col-sm-4 col-lg-4 col-md-4 " >
         <div class="thumbnail">
             <img src="~/../../@Model.ImageThumbnailUrl" alt="">
             <div class="caption">
@@ -7,13 +7,13 @@
                 <h3>
                     <a asp-controller="Guitar"
                        asp-action="Details"
-                       asp-route-id="@Model.GuitarId">@Model.Brand</a>
+                       asp-route-id="@Model.GuitarId">@Model.Brand @Model.Model</a>
                 </h3>
                 <p>@Model.DescriptionOfGuitar</p>
             </div>
             <div class="addToCart">
                 <p class="button">
-                    <a class="btn btn-primary" 
+                    <a class="btn btn-danger" 
                        asp-controller="ShoppingCart" 
                        asp-action="AddToShoppingCart"
                        asp-route-guitarId="@Model.GuitarId">Add to cart</a>

@@ -2,18 +2,18 @@
 
 <h2>@Model.Brand</h2>
 
-<div class="thumbnail">
+<div class="thumbnail cardBorder ">
     <img alt="@Model.Brand" src="~/../../@Model.ImageUrl">
     <div class="caption-full">
         <h3 class="pull-right">@Model.Price</h3>
         <h3>
-            <a href="#">@Model.Brand</a>
+            <a href="#">@Model.Brand @Model.Model</a>
         </h3>
         <h4>@Model.DescriptionOfGuitar</h4>
         <p>@Model.DescriptionOfGuitar</p>
         <div class="addToCart">
             <p class="button">
-                <a class="btn btn-primary" asp-controller="ShoppingCart" asp-action="AddToShoppingCart"
+                <a class="btn btn-danger" asp-controller="ShoppingCart" asp-action="AddToShoppingCart"
                    asp-route-guitarId="@Model.GuitarId">Add to cart</a>
             </p>
         </div>

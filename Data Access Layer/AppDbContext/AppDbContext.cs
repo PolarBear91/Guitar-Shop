@@ -22,6 +22,7 @@ namespace Data_Access_Layer
             base.OnModelCreating(modelBuilder);
 
             //seed categories
+
             modelBuilder.Entity<Category>().HasData(new Category { CategoryId = 1, CategoryName = "Electric Guitars" });
             modelBuilder.Entity<Category>().HasData(new Category { CategoryId = 2, CategoryName = "Acoustic Guitars" });
             modelBuilder.Entity<Category>().HasData(new Category { CategoryId = 3, CategoryName = "Bass Guitars" });
