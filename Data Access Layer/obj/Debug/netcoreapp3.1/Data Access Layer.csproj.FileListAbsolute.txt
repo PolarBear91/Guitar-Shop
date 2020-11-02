@@ -9,3 +9,4 @@ E:\MyGitProject\Guitar Shop\Guitar-Shop\Data Access Layer\obj\Debug\netcoreapp3.
 E:\MyGitProject\Guitar Shop\Guitar-Shop\Data Access Layer\obj\Debug\netcoreapp3.1\Data Access Layer.pdb
 E:\MyGitProject\Guitar Shop\Guitar-Shop\Data Access Layer\obj\Debug\netcoreapp3.1\Data Access Layer.genruntimeconfig.cache
 E:\MyGitProject\Guitar Shop\Guitar-Shop\Data Access Layer\obj\Debug\netcoreapp3.1\Data Access Layer.csproj.CoreCompileInputs.cache
+E:\MyGitProject\Guitar Shop\Guitar-Shop\Data Access Layer\obj\Debug\netcoreapp3.1\Data Access Layer.csprojAssemblyReference.cache
