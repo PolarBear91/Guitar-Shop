@@ -1,7 +1,6 @@
 E:\MyGitProject\Guitar Shop\Guitar-Shop\Shop.UI\bin\Debug\netcoreapp3.1\appsettings.Development.json
 E:\MyGitProject\Guitar Shop\Guitar-Shop\Shop.UI\bin\Debug\netcoreapp3.1\appsettings.json
 E:\MyGitProject\Guitar Shop\Guitar-Shop\Shop.UI\bin\Debug\netcoreapp3.1\libman.json
-E:\MyGitProject\Guitar Shop\Guitar-Shop\Shop.UI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 E:\MyGitProject\Guitar Shop\Guitar-Shop\Shop.UI\bin\Debug\netcoreapp3.1\Shop.UI.exe
 E:\MyGitProject\Guitar Shop\Guitar-Shop\Shop.UI\bin\Debug\netcoreapp3.1\Shop.UI.deps.json
 E:\MyGitProject\Guitar Shop\Guitar-Shop\Shop.UI\bin\Debug\netcoreapp3.1\Shop.UI.runtimeconfig.json
@@ -159,3 +158,4 @@ E:\MyGitProject\Guitar Shop\Guitar-Shop\Shop.UI\obj\Debug\netcoreapp3.1\Razor\Ar
 E:\MyGitProject\Guitar Shop\Guitar-Shop\Shop.UI\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
 E:\MyGitProject\Guitar Shop\Guitar-Shop\Shop.UI\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
 E:\MyGitProject\Guitar Shop\Guitar-Shop\Shop.UI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+E:\MyGitProject\Guitar Shop\Guitar-Shop\Shop.UI\obj\Debug\netcoreapp3.1\scopedcss\bundle\Shop.UI.styles.css
